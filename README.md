@@ -1,6 +1,6 @@
 # Exercise 3.8 Greatest in a list
 
-The exercise template contains a base that reads numbers from the user and adds them to a list. Reading is stopped once the user enters the number -1.
+Write a program that asks the user for strings and adds them to a list. The program stops reading when the user enters -1.
 
 Continue developing the program so that it finds the greatest number in the list and prints its value after reading all the numbers. The programming should work in the following manner.
 
