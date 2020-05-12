@@ -18,4 +18,4 @@ def test_exercise():
 
     src.exercise.main()
 
-    assert output == ["","","","","The greatest number: 64"]
+    assert output == ["","","","","","The greatest number: 64"]
