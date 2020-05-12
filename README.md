@@ -19,7 +19,7 @@ You can use the source code below as an example. It is used to find the smallest
 ```python
 # assume we have a list that contains integers
 
-smallest = list[0]]
+smallest = list[0]
 
 for i in range(len(list)):
     number = list[i]
